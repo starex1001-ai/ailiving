@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "AI생활",
+  "brand": "AILIVING",
+  "mark": "AI",
+  "worker": "ailiving",
+  "url": "https://ailiving.webnote-lab.workers.dev",
+  "description": "AI생활의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "AI생활, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "AI생활의 정보와 실용 가이드를 정리합니다.",
+      "name": "AI생활",
+      "slug": "ailiving"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/ailiving/issues"
+}
